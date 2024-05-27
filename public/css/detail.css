@@ -1,0 +1,14 @@
+.product-images{
+    width: 350px;
+    border: 2px solid rgb(208, 208, 208);
+    border-radius: 15px;
+}
+
+.add-button{
+    background-color: #82c441;
+    border-radius: 9px;
+    padding: 10px;
+    color: white;
+    border: 1px solid transparent;
+    margin-top: 25px;
+}
